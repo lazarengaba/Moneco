@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding_size">16dp</dimen>
+    <dimen name="main_spacer_size">48dp</dimen>
+    <dimen name="large_spacer_size">100dp</dimen>
+    <dimen name="middle_spacer_size">24dp</dimen>
+    <dimen name="small_spacer_size">10dp</dimen>
+    <dimen name="small_plus_spacer_size">8dp</dimen>
+    <dimen name="extra_small_spacer_size">4dp</dimen>
+    <dimen name="medium_icon_cover_size">40dp</dimen>
+    <dimen name="medium_plus_icon_cover_size">46dp</dimen>
+    <dimen name="medium_plus_icon_size">26dp</dimen>
+    <dimen name="medium_card_corner_shape">16dp</dimen>
+    <dimen name="medium_list_item_height">72dp</dimen>
+    <dimen name="transfer_button_size">60dp</dimen>
+    <dimen name="transfer_button_corner_radius">30dp</dimen>
+    <dimen name="small_icon_cover_size">32dp</dimen>
+    <dimen name="small_icon_cover_rounded_size">10dp</dimen>
+    <dimen name="small_plus_icon_cover_rounded_size">12dp</dimen>
+    <dimen name="country_card_height">56dp</dimen>
+    <dimen name="mobile_wallet_button_height">72dp</dimen>
+    <dimen name="send_money_panel_height">94dp</dimen>
+    <dimen name="success_icon_size">250dp</dimen>
+    <dimen name="dialog_size">350dp</dimen>
+</resources>
